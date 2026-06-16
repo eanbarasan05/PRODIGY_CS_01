@@ -71,7 +71,7 @@ python3 --version
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/eanbarasan05/Caesar-Cipher.git
+git clone https://github.com/eanbarasan05/PRODIGY_CS_01.git
 ```
 
 2. Navigate to the project directory:
